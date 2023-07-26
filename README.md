@@ -8,5 +8,5 @@ Thanks for the Honguito98.
 
 |Command  |Introduce  |
 |---|---|
-|`setlocal`|Is use to setup command prompt environment.|
+|`setlocal`|Is use to setup command prompt environment. It allow user to use exclamation mark as variable.|
 
