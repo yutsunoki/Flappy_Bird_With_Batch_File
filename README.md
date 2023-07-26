@@ -4,5 +4,6 @@
 This is my practice and research how the batch file usage.<br>
 I am refer the script from [Honguito98/batch-game-flappy-bird](https://github.com/Honguito98/batch-game-flappy-bird) for this practical.<br>
 Thanks for the Honguito98.
-## about the command prompt and batch file
+## About the command prompt and batch file
+|`setlocal`|Is use to setup command prompt environment.|
 
