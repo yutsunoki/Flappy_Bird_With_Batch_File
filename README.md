@@ -11,4 +11,4 @@ The instruction and command can be refer by using a help command,
 but the operator and operation theory is not that clearly when refer to the help command.
 </br>
 
-So, I organized these common useful operator to improve the batch script efficient.
+So, I organized these common useful operator to improve the efficiency of batch script.
