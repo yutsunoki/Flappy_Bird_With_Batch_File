@@ -15,5 +15,5 @@ So, I organized these may not common used operator, but it useful to improve the
 |operator|introduce|
 |---|---|
 |\( \)|Grouping is helps to group command into a execution. Example, the line [57-60](https://github.com/yutsunoki/Flappy_Bird_With_Batch_File/blob/main/batch_rev.bat?plain=1#L57-L60) is used to group command, and output the result into a file.| 
-|[ANSI escape code](https://en.wikipedia.org/wiki/ANSI_escape_code)|ANSI escape code is useful to display your output result.|
+|[ANSI escape code](https://en.wikipedia.org/wiki/ANSI_escape_code)|ANSI escape code is useful to display your output result. For example, where you want to a Bell sound, hide cursor, change text and backgound color, or output the result to a specify location etc.|
 
