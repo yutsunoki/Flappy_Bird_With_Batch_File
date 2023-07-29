@@ -14,4 +14,4 @@ but the operator and operation theory is not that clearly when refer to the help
 So, I organized these common useful operator to improve the efficiency of batch script.
 |operator|introduce|
 |---|---|
-|()|Grouping is helps to group command into a execution. Example, the line [57-60](https://github.com/yutsunoki/Flappy_Bird_With_Batch_File/blob/main/batch_rev.bat?plain=L57-L60) is used to group command, and output the result into a file.| 
+|\( \)|Grouping is helps to group command into a execution. Example, the line [57-60](https://github.com/yutsunoki/Flappy_Bird_With_Batch_File/blob/main/batch_rev.bat#L57-L60) is used to group command, and output the result into a file.| 
