@@ -15,6 +15,7 @@ So, I organized these may not common used operator, but it useful to improve the
 |operator|introduce|
 |---|---|
 |\( \)|Grouping is helps to group command into a execution. Example, the line [57-60](https://github.com/yutsunoki/Flappy_Bird_With_Batch_File/blob/main/batch_rev.bat?plain=1#L57-L60) is used to group command, and output the result into a file.| 
+|^|This operator is use to join next line or enable literal characters instead of operator characters such as ‘&’ or ‘|’. For example, 
 |&@|Refer to the "operating system: three easy pieces". This operation is a shell operator used to execute commands in the same time with virtualizing the CPU.|
 |&&|This operator is used to execute first command and second command with sequence. When the command fail, the instruction will stop executing.|
 |\|\||This operator is used to execute second command when the first command fail.
